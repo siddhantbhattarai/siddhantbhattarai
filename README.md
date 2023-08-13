@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddhant Bhattari</h1>
+<h1 align="center">Hi 👋, I'm Siddhant Bhattarai</h1>
 <h3 align="center">DevSecOps Engineer, Accredited Educator @ AWS Academy & Red Hat Academy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&label=Profile%20views&color=0e75b6&style=flat" alt="siddhantbhattarai" /> </p>
