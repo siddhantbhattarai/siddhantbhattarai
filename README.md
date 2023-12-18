@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Cloud, DevSecOps, Ethical Hacking & Penetration Testing**
 
-- 📫 How to reach me **bhattarai_siddhant@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
