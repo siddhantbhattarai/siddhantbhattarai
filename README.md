@@ -1,4 +1,4 @@
-"# Hello there 👋, I'm Siddhant Bhattarai
+# Hello there 👋, I'm Siddhant Bhattarai
 
 ### DevSecOps Specialist | Cloud Architect | Educator | Machine Learning Practitioner
 
@@ -191,4 +191,3 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
         </td>
     </tr>
 </table>
-"
