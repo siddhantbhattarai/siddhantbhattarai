@@ -93,7 +93,6 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href=""><img src="https://www.vectorlogo.zone/logos/sumologic/sumologic-icon.svg" width="40" height="40"/></a>
         </td>
     </tr>
-
     <tr>
         <td>Databases/Datastores</td>
         <td>
@@ -126,7 +125,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
         </td>
-    </tr>
+    </tr> 
     <tr>
         <td>Others/Misc</td>
         <td>
