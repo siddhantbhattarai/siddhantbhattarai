@@ -8,7 +8,8 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
 
 <table>
     <tr>
-        <th>Projects and Blogs</th>
+        <th>Projects</th>
+        <th>Blogs</th>
     </tr>
     <tr>
         <td>
