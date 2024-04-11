@@ -16,7 +16,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href="https://siddhantbhattarai.hashnode.dev/"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="Hashnode" style="width: 100px;"/></a>
         </td>
         <td>
-            <a href="https://medium.com/@spontaneousworld11"><img src="https://img.icons8.com/fluent/48/000000/medium-monogram.png" alt="Medium" style="width: 100px;"/></a>
+            <a href="https://medium.com/@spontaneousworld11"><img src="https://www.svgrepo.com/show/354055/medium.svg" alt="Medium" style="width: 100px;"/></a>
         </td>
     </tr>
 </table>
