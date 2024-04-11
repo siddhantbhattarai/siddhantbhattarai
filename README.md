@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Siddhant Bhattarai
+"# Hello there 👋, I'm Siddhant Bhattarai
 
 ### DevSecOps Specialist | Cloud Architect | Educator | Machine Learning Practitioner
 
@@ -50,6 +50,8 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_elasticcontainer/amazon_elasticcontainer-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
         </td>
     </tr>
     <tr>
@@ -132,6 +134,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
     <tr>
@@ -139,6 +142,9 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a>
+            <a href=""><img src=""/></a> -->
         </td>
     </tr>
     <tr>
@@ -150,6 +156,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
+            <!-- <a href=""><img src=""/></a> -->
         </td>
     </tr>
 </table>
@@ -169,18 +176,19 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=Siddhant&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantbhattarai"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Siddhant&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
+"
