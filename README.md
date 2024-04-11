@@ -179,7 +179,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
             <img src="https://github-profile-trophy.vercel.app/?username=Siddhant&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant"/>
         </td> 
     </tr>
     <tr>
