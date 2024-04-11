@@ -121,7 +121,7 @@ Hi there! I'm a passionate DevSecOps Engineer and Accredited Educator at AWS Aca
         <td>Testing</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/cucumber/cucumber-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/philadelphiapact/philadelphiapact-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://www.vectorlogo.zone/logos/adelphiapact/adelphiapact-icon.svg" width="40" height="40"/></a>
             <!-- <a href=""><img src=""/></a>
             <a href=""><img src=""/></a>
             <a href=""><img src=""/></a> -->
