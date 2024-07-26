@@ -70,9 +70,13 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 |------------------|--------------|--------|------------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
   
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=siddhantbhattarai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+<table style="margin: auto;">
+    <tr>
+        <td align="center">
+            <img width="800" height="220" src="https://streak-stats.demolab.com?user=siddhantbhattarai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+        </td>
+    </tr>
+</table>
 
 <div style="text-align: center;">
     <table style="margin: auto;">
