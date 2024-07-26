@@ -58,17 +58,11 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 |--------------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache Spark" alt="Apache Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
 
-### Version Control:
+### CI/CD & Version Control Tools:
 
-| Git | GitHub | GitLab |
-|-----|--------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> |
-
-### CI/CD Tools:
-
-| Jenkins | GitHub Actions | GitLab CI |
-|---------|----------------|-----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="55" height="55"/> |
+| Jenkins | GitHub Actions | GitLab CI | Git | GitHub | GitLab |
+|---------|----------------|-----------|-----|--------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> |
 
 ### Other Tools
 
@@ -81,29 +75,19 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 </p>
 
 <div style="text-align: center;">
-    <table style="margin: auto;">
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-            </td>
-        </tr>
-    </table>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
+    </div>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+    </div>
 </div>
 
-<br>
-
-<table style="margin: auto; text-align: center;">
-    <tr>
-        <td>
-            <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
-        </td>
-    </tr>
-</table>
-
-<br>
+<div style="text-align: center;">
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
+    </div>
+</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
