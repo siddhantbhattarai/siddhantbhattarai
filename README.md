@@ -75,23 +75,32 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 </p>
 
 <div style="text-align: center;">
-    <div style="display: inline-block; margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-    </div>
+    <table style="margin: auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
-<div style="text-align: center;">
-    <div style="display: inline-block; margin: 10px;">
-        <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
-    </div>
-</div>
+<br>
+
+<table style="margin: auto; text-align: center;">
+    <tr>
+        <td>
+            <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
+        </td>
+    </tr>
+</table>
+
+<br>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
 
 
