@@ -64,7 +64,7 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 |---------|----------------|-----------|-----|--------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> |
 
-### Other Tools
+### Other Tools:
 
 | Jupyter Notebook | Google Colab | Docker | Kubernetes |
 |------------------|--------------|--------|------------|
@@ -91,17 +91,9 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
     </table>
 </div>
 
-<br>
-
-<table style="margin: auto; text-align: center;">
-    <tr>
-        <td>
-            <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
-        </td>
-    </tr>
-</table>
-
-<br>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
