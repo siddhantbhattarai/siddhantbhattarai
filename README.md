@@ -45,6 +45,10 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
 |-----|-------|-----|
 | <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/aws.png?raw=true" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> |
 
+### Scripting & Infrastructure as Code:
+| Bash | Ansible | Terraform | Python | 
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
 
 ### Operating Systems:
 
