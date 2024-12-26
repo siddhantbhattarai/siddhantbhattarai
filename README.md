@@ -101,7 +101,7 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&theme=xcode&hide_border=true" alt="Siddhant Bhattarai's Activity Graph" />
   </div>
 </div>
-
+<br>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
 </div>
