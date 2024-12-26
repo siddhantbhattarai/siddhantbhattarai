@@ -103,4 +103,12 @@ Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opp
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
+<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&show_icons=true&theme=gruvbox&count_private=true" alt="Siddhant Bhattarai's GitHub stats" style="max-width: 400px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);" />
+    <!-- Contribution Graph -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&theme=xcode&hide_border=true" alt="Siddhant Bhattarai's Activity Graph" />
+  </div>
+</div>
 
