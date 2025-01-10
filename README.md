@@ -1,4 +1,6 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 ### About Me:    
 Hi! I'm Siddhant Bhattarai, a passionate DevSecOps Specialist, AWS Cloud Architect, Educator, Machine Learning Practitioner and Cybersecurity Enthusiast. With a strong foundation in Cloud Computing, DevOps, Networking, and Cybersecurity, I specialize in designing secure, scalable cloud solutions and automating SDLC and CI/CD processes to enhance operational efficiency and reliability. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
