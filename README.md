@@ -1,5 +1,5 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&exclude=Reviews,Issues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 ### About Me:    
