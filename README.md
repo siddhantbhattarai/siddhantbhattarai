@@ -1,4 +1,4 @@
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 ### About Me:    
