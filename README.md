@@ -46,89 +46,103 @@ Container Security &nbsp;·&nbsp; Active Directory Security &nbsp;·&nbsp; Offen
 
 ---
 
-<!-- ═══════════════════════ FLAGSHIP PROJECT ═══════════════════════ -->
-## ANVIL — Adversarial Security Testing Framework
+<!-- ═══════════════════════ WHAT I DO ═══════════════════════ -->
+## What I Do
 
-<div align="center">
+**Cloud security architecture** — designing and hardening AWS and Azure environments: network
+segmentation, identity and access boundaries, and defensible baselines that survive an audit.
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OWASP_Top_10-8_of_10_covered-DC2626?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Detections-11_active_·_5_passive-3B82F6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MCP_Server-native-9333EA?style=for-the-badge&labelColor=0D1117" />
+**DevSecOps pipelines** — putting security controls inside the delivery pipeline, so scanning,
+policy checks and gating run on every commit instead of in a review meeting.
 
-</div>
+**Infrastructure automation** — Terraform, Ansible and Kubernetes for infrastructure that is
+reproducible, reviewable, and recoverable.
 
-A web application security scanner built on one principle: **every finding ships with evidence.**
-ANVIL detects and safely proves SQL injection across seven techniques, plus XSS, SSRF, command
-injection, SSTI, XXE, path traversal, NoSQL injection, CORS misconfiguration, open redirect and
-CRLF — backed by passive audits for security headers, JWT weaknesses, exposed secrets, outdated
-components and SRI.
+**Security tooling** — building scanners and offensive tooling, and taking findings from
+detection through to evidence.
 
-```bash
-# One-shot OWASP sweep, gated for CI — exit 2 if anything High or worse lands
-anvil -t "https://target.com" --owasp --crawl --fail-on high --format json
+**Teaching** — cloud and security curriculum for engineers moving into the field.
 
-# Run as an MCP server so AI agents can call it as a native tool
-anvil --mcp
-```
+---
 
-Findings are proven rather than flagged, which keeps the false-positive rate low. The built-in
-MCP server exposes `anvil_scan` to AI agents, and deterministic `--fail-on` exit codes with a
-stable JSON schema make it straightforward to gate a pipeline on.
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## Featured Projects
 
-<div align="center">
+**[ANVIL](https://github.com/siddhantbhattarai/anvil)** &nbsp;—&nbsp; evidence-driven web
+application security scanner in Rust. Covers 8 of the OWASP Top 10 across 11 active detections
+and 5 passive audits, proves findings rather than flagging them, and ships an MCP server so AI
+agents can call it as a native tool.
 
-<a href="https://github.com/siddhantbhattarai/anvil">
-<img src="https://img.shields.io/badge/View_repository-3B82F6?style=for-the-badge&labelColor=0D1117&logo=github" />
-</a>
+**[AWS Cloud Foundational Lab](https://github.com/siddhantbhattarai/AWS-Cloud-Foundational-Lab)**
+&nbsp;—&nbsp; hands-on labs covering core AWS architecture: VPC design, IAM, compute and storage.
 
-</div>
+**[Fullstack PHP on Docker](https://github.com/siddhantbhattarai/Fullstack-PHP-Application-Docker)**
+&nbsp;—&nbsp; containerized multi-service deployment with a reproducible local-to-production path.
+
+**[Kubernetes Deployment](https://github.com/siddhantbhattarai/kubernetes-Deployment)**
+&nbsp;—&nbsp; manifests and patterns for running and scaling workloads on Kubernetes.
+
+**[Py4DS & ML Bootcamp](https://github.com/siddhantbhattarai/Py4DS-ML-Bootcamp)**
+&nbsp;—&nbsp; Python for data science and machine learning, taught through runnable notebooks.
 
 ---
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## Tech Stack
 
-<div align="center">
+**Security & Offensive**
 
-<img width="100%" src="https://skillicons.dev/icons?i=rust,kali,linux,bash,aws,azure,gcp,terraform,ansible,docker,kubernetes,githubactions,jenkins,gitlab,git,python,c,cpp,r,fastapi,flask,django,postgres,mysql,pytorch,tensorflow,sklearn&perline=9&theme=dark" alt="Rust, Kali Linux, Linux, Bash, AWS, Azure, Google Cloud, Terraform, Ansible, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI, Git, Python, C, C++, R, FastAPI, Flask, Django, PostgreSQL, MySQL, PyTorch, TensorFlow, scikit-learn" />
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117)
 
-</div>
+**Cloud**
 
-<br>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0D1117)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=0D1117)
 
-**Security & Offensive** &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Kali Linux &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Bash
+**Infrastructure & CI/CD**
 
-**Cloud** &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Google Cloud
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=0D1117)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0D1117)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=0D1117)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=0D1117)
 
-**Infrastructure & CI/CD** &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; GitLab CI &nbsp;·&nbsp; Git
+**Languages & Backend**
 
-**Languages & Backend** &nbsp;·&nbsp; Python &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; R &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Django
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117)
 
-**Data & Machine Learning** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; scikit-learn
+**Data & Machine Learning**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0D1117)
 
 ---
 
 <!-- ═══════════════════════ CREDENTIALS ═══════════════════════ -->
 ## Credentials
 
-<div align="center">
+**Accredited Educator**
 
-`ACCREDITED EDUCATOR`
+- **AWS Academy** — Accredited Educator
+- **Red Hat Academy** — Accredited Educator
 
-<img src="https://img.shields.io/badge/AWS_Academy-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Red_Hat_Academy-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=0D1117" />
+**Certifications**
 
-<br>
-
-`CERTIFICATIONS`
-
-<img src="https://img.shields.io/badge/AWS-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-Cloud_Developing-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-Data_Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Fortinet-Network_Security-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=0D1117" />
-
-</div>
+- **AWS Academy** — Cloud Architecting · Cloud Developing · Data Engineering
+- **Fortinet** — Network Security
 
 ---
 
@@ -138,12 +152,8 @@ stable JSON schema make it straightforward to gate a pipeline on.
 Long-form breakdowns of DevSecOps pipelines, AWS architecture and CI/CD — plus free curriculum
 for engineers moving into cloud and security roles.
 
-<div align="center">
-
-<a href="https://siddhantbhattarai.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-72_posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0D1117" /></a>
-<a href="https://www.youtube.com/@siddhantacademy101"><img src="https://img.shields.io/badge/Siddhant_Academy-Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" /></a>
-
-</div>
+[![Hashnode](https://img.shields.io/badge/Hashnode-72_posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0D1117)](https://siddhantbhattarai.hashnode.dev)
+[![YouTube](https://img.shields.io/badge/Siddhant_Academy-Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@siddhantacademy101)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -155,11 +165,7 @@ for engineers moving into cloud and security roles.
 
 Open to DevSecOps consulting, cloud security architecture, and security tooling collaboration.
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/siddhant-bhattarai-3853ab238"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://siddhantbhattarai.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://www.youtube.com/@siddhantacademy101"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-<a href="https://www.instagram.com/siddhantacademy101"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/siddhant-bhattarai-3853ab238)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0D1117)](https://siddhantbhattarai.hashnode.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@siddhantacademy101)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117)](https://www.instagram.com/siddhantacademy101)
