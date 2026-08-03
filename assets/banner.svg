@@ -202,7 +202,7 @@
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.684;1" dur="1.9s" begin="0s" fill="freeze"/>
         <g transform="translate(934,96)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M20 3 L36 9 V21 C36 30 29 36 20 38 C11 36 4 30 4 21 V9 Z"/><rect x="14" y="19" width="12" height="10" rx="2"/><path d="M17 19 v-3 a3 3 0 0 1 6 0 v3"/>
+          <path d="M20 2.5 L36 8.5 V20.5 C36 29.5 29 35.5 20 37.5 C11 35.5 4 29.5 4 20.5 V8.5 Z"/><rect x="14" y="18.5" width="12" height="10" rx="2"/><path d="M17 18.5 v-3 a3 3 0 0 1 6 0 v3"/>
         </g>
         <text x="986" y="122">Cyber Security</text>
       </g>
@@ -211,7 +211,7 @@
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.714;1" dur="2.1s" begin="0s" fill="freeze"/>
         <g transform="translate(934,157)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M26.3 13.3 c8.5 0 8.5 13.4 0 13.4 c-8.5 0 -11.9 -13.4 -21.2 -13.4 c-7.6 0 -7.6 13.4 0 13.4 c9.3 0 12.7 -13.4 21.2 -13.4 z"/>
+          <path d="M20 20 C16 12.5 11 10 8.5 10 C4 10 3 14.5 3 20 C3 25.5 4 30 8.5 30 C11 30 16 27.5 20 20 C24 12.5 29 10 31.5 10 C36 10 37 14.5 37 20 C37 25.5 36 30 31.5 30 C29 30 24 27.5 20 20 Z"/>
         </g>
         <text x="986" y="183">DevSecOps</text>
       </g>
@@ -220,7 +220,7 @@
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.739;1" dur="2.3s" begin="0s" fill="freeze"/>
         <g transform="translate(934,218)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M20 20 L9 11 M20 20 L9 29 M20 20 L33 11 M20 20 L33 29"/><circle cx="9" cy="11" r="3" fill="#081231"/><circle cx="9" cy="29" r="3" fill="#081231"/><circle cx="33" cy="11" r="3" fill="#081231"/><circle cx="33" cy="29" r="3" fill="#081231"/><circle cx="20" cy="20" r="3.6" fill="#081231"/>
+          <path d="M20 20 L8 11 M20 20 L8 29 M20 20 L32 11 M20 20 L32 29"/><circle cx="8" cy="11" r="3" fill="#081231"/><circle cx="8" cy="29" r="3" fill="#081231"/><circle cx="32" cy="11" r="3" fill="#081231"/><circle cx="32" cy="29" r="3" fill="#081231"/><circle cx="20" cy="20" r="3.6" fill="#081231"/>
         </g>
         <text x="986" y="244">AI &amp; ML Security</text>
       </g>
