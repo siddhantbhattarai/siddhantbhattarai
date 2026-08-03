@@ -1,12 +1,13 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img width="100%" src="banner.svg" alt="Siddhant Bhattarai — DevSecOps Engineer & Cloud Security Architect" />
+  <img width="100%" src="./assets/banner.svg" alt="Siddhant Bhattarai — DevSecOps Engineer & Cloud Security Architect" />
 </div>
 
+<br>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=680&lines=I+design+secure+cloud+infrastructure.;I+automate+security.;I+build+security+software.;I+contribute+to+open+source.;I+solve+enterprise+infrastructure+problems.)](https://github.com/siddhantbhattarai)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=900&height=60&lines=I+design+secure+cloud+infrastructure.;I+automate+security.;I+build+security+software.;I+contribute+to+open+source.;I+solve+enterprise+infrastructure+problems.)](https://github.com/siddhantbhattarai)
 
 <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/siddhantbhattarai?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github" />
@@ -25,23 +26,20 @@ cloud infrastructure, automating software delivery pipelines, and developing off
 security tooling.
 
 I help organizations build scalable, resilient, and security-first environments across
-**AWS, Azure, Kubernetes, Linux, and Windows Server** infrastructures.
+**AWS, Azure, Kubernetes, Linux, and Windows Server** infrastructures — and I teach the same
+material to engineers moving into cloud and security roles.
 
-<table>
-<tr>
-<td width="33%" align="center">☁️<br><b>Cloud Security</b></td>
-<td width="33%" align="center">🔁<br><b>DevSecOps</b></td>
-<td width="33%" align="center">⚙️<br><b>Infrastructure Automation</b></td>
-</tr>
-<tr>
-<td align="center">🗝️<br><b>Active Directory Security</b></td>
-<td align="center">📦<br><b>Container Security</b></td>
-<td align="center">🎯<br><b>Offensive Security Tooling</b></td>
-</tr>
-<tr>
-<td align="center" colspan="3">🏢<br><b>Enterprise Infrastructure</b></td>
-</tr>
-</table>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cloud_Security-1E40AF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DevSecOps-2563EB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Infrastructure_Automation-3B82F6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Active_Directory_Security-1E40AF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Container_Security-2563EB?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Offensive_Security_Tooling-3B82F6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Enterprise_Infrastructure-1E40AF?style=for-the-badge&labelColor=0D1117" />
+
+</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=siddhantbhattarai&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience" />
@@ -99,6 +97,74 @@ Deterministic <code>--fail-on</code> exit codes.<br>Stable JSON schema for triag
 
 ---
 
+<!-- ═══════════════════════ SELECTED WORK ═══════════════════════ -->
+<h2 align="center">🗂️ &nbsp;Selected Work</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**☁️ [AWS Cloud Foundational Lab](https://github.com/siddhantbhattarai/AWS-Cloud-Foundational-Lab)**
+
+Hands-on lab track covering core AWS architecture — VPC design, IAM, compute and storage —
+built for engineers learning cloud from the ground up.
+
+</td>
+<td width="50%" valign="top">
+
+**🐳 [Fullstack PHP on Docker](https://github.com/siddhantbhattarai/Fullstack-PHP-Application-Docker)**
+
+Containerized full-stack deployment: multi-service Compose setup, persistent data, and a
+reproducible path from local to production.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ [Azure Function Demo](https://github.com/siddhantbhattarai/Azure-Function-Demo)**
+
+Serverless workloads on Azure Functions — event-driven design, deployment wiring, and the
+operational trade-offs that come with it.
+
+</td>
+<td width="50%" valign="top">
+
+**⎈ [Kubernetes Deployment](https://github.com/siddhantbhattarai/kubernetes-Deployment)**
+
+Manifests and patterns for running workloads on Kubernetes, from pods and services through
+to scaling.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 [Py4DS & ML Bootcamp](https://github.com/siddhantbhattarai/Py4DS-ML-Bootcamp)**
+
+A full Python-for-data-science curriculum: data manipulation, visualization, and machine
+learning algorithms in runnable notebooks.
+
+</td>
+<td width="50%" valign="top">
+
+**🧮 [DSA with Python](https://github.com/siddhantbhattarai/DSA-with-Python)**
+
+Data structures and algorithms taught through code — implementations, exercises, and
+complexity analysis.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/siddhantbhattarai?tab=repositories">
+<img src="https://img.shields.io/badge/Browse_all_repositories-→-3B82F6?style=for-the-badge&labelColor=0D1117&logo=github" />
+</a>
+</div>
+
+---
+
 <!-- ═══════════════════════ CREDENTIALS ═══════════════════════ -->
 <h2 align="center">🎓 &nbsp;Credentials</h2>
 
@@ -123,32 +189,32 @@ Deterministic <code>--fail-on</code> exit codes.<br>Stable JSON schema for triag
 
 <table align="center">
 <tr>
-<td align="right" width="30%"><b>Security &amp; Offensive</b></td>
-<td><img src="https://skillicons.dev/icons?i=rust,kali,linux,bash&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Security & Offensive</b></td>
+<td><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Cloud</b></td>
+<td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>Infrastructure as Code</b></td>
-<td><img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Infrastructure as Code</b></td>
+<td><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>CI/CD</b></td>
-<td><img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>CI/CD</b></td>
+<td><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,c,cpp,r&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Languages</b></td>
+<td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>Data &amp; ML</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres,mysql,pytorch,tensorflow,sklearn&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Data & ML</b></td>
+<td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 <tr>
-<td align="right"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="42" /></td>
+<td align="right" width="26%"><b>Backend</b></td>
+<td><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=0D1117" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0D1117" /></td>
 </tr>
 </table>
 
@@ -157,25 +223,28 @@ Deterministic <code>--fail-on</code> exit codes.<br>Stable JSON schema for triag
 <!-- ═══════════════════════ METRICS ═══════════════════════ -->
 <h2 align="center">📊 &nbsp;The Numbers</h2>
 
-<!-- Cards render via the shared public github-readme-stats instance, which is
-     heavily rate-limited. Self-host it (fork anuraghazra/github-readme-stats ->
-     deploy to Vercel -> set PAT_1) and swap the host below for reliable cards
-     plus accurate private-commit counts. -->
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&show_icons=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&layout=compact&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby" />
+<img src="https://img.shields.io/github/followers/siddhantbhattarai?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsiddhantbhattarai&query=%24.public_repos&style=for-the-badge&label=PUBLIC%20REPOS&color=3B82F6&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/badge/BLOG_POSTS-72-3B82F6?style=for-the-badge&labelColor=0D1117&logo=hashnode" />
 
-<img width="92%" src="https://streak-stats.demolab.com?user=siddhantbhattarai&hide_border=true&border_radius=10&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&sideNums=C9D1D9&currStreakNum=DBEAFE" />
+<br><br>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&hide_border=true&radius=10&bg_color=0D1117&color=3B82F6&line=3B82F6&point=DBEAFE&area=true&area_color=1E3A8A&title_color=3B82F6" />
+<b>ANVIL</b> — live repository signal
 
-</div>
+<img src="https://img.shields.io/github/stars/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/forks/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117&logo=github" />
+<img src="https://img.shields.io/github/languages/top/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117" />
+<img src="https://img.shields.io/github/languages/code-size/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117" />
+<img src="https://img.shields.io/github/last-commit/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117" />
+<img src="https://img.shields.io/github/commit-activity/m/siddhantbhattarai/anvil?style=flat-square&color=3B82F6&labelColor=0D1117" />
 
-<!-- Contribution snake — regenerated daily by .github/workflows/snake.yml -->
-<div align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/siddhantbhattarai/siddhantbhattarai/output/snake-dark.svg" alt="Contribution snake" />
+<br><br>
+
+<!-- Regenerated daily by .github/workflows/snake.yml -->
+<img width="95%" src="./assets/github-snake.svg" alt="My GitHub contribution graph, rendered as a snake game" />
+
 </div>
 
 ---
@@ -194,7 +263,6 @@ for engineers moving into cloud and security roles.
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- Latest posts appear here automatically — see .github/workflows/blog-posts.yml -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
