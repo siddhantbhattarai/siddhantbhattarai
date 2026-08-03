@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Siddhant Bhattarai — Securing Systems, Automating DevSecOps Pipelines, Empowering AI-Driven Threat Detection">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#050B1F"/>
+      <stop offset="55%"  stop-color="#081231"/>
+      <stop offset="100%" stop-color="#04091A"/>
+    </linearGradient>
+
+    <radialGradient id="glowL" cx="16%" cy="52%" r="46%">
+      <stop offset="0%"   stop-color="#2563EB" stop-opacity="0.34"/>
+      <stop offset="60%"  stop-color="#1E3A8A" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#050B1F" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowV" cx="82%" cy="18%" r="52%">
+      <stop offset="0%"   stop-color="#8B5CF6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#050B1F" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="silver" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#FFFFFF"/>
+      <stop offset="52%"  stop-color="#E8EFF7"/>
+      <stop offset="72%"  stop-color="#9FB2C9"/>
+      <stop offset="100%" stop-color="#F2F7FC"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0.3">
+      <stop offset="0%"   stop-color="#3B82F6"/>
+      <stop offset="52%"  stop-color="#22B8F0"/>
+      <stop offset="100%" stop-color="#4FE3E8"/>
+    </linearGradient>
+
+    <linearGradient id="barGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient id="shieldFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0B1B44"/>
+      <stop offset="100%" stop-color="#0A1533"/>
+    </linearGradient>
+
+    <linearGradient id="shieldLit" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#1D4ED8" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.20"/>
+    </linearGradient>
+
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#8B5CF6"/>
+      <stop offset="45%"  stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#5EEAD4"/>
+    </linearGradient>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#22D3EE" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="hex" width="17" height="15" patternUnits="userSpaceOnUse">
+      <path d="M8.5 0 L17 4.3 L17 11.2 L8.5 15 L0 11.2 L0 4.3 Z"
+            fill="none" stroke="#38BDF8" stroke-opacity="0.30" stroke-width="0.7"/>
+    </pattern>
+
+    <filter id="blur18" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="blur7" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+
+    <clipPath id="card"><rect width="1200" height="400" rx="16"/></clipPath>
+
+    <path id="shieldPath"
+          d="M170 88 L253 126 L253 226 C253 279 214 310 170 326 C126 310 87 279 87 226 L87 126 Z"/>
+    <clipPath id="shieldClip"><use href="#shieldPath"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+
+    <rect width="1200" height="400" fill="url(#bg)"/>
+
+    <!-- ── circuit traces ─────────────────────────────── -->
+    <g stroke="#1E40AF" stroke-opacity="0.55" stroke-width="1.2" fill="none">
+      <path id="t1" d="M0 46 H150 L182 78 H392 L420 50 H640"/>
+      <path id="t2" d="M1200 74 H1010 L978 106 H812"/>
+      <path id="t3" d="M0 354 H210 L246 318 H430"/>
+      <path id="t4" d="M1200 340 H980 L944 376 H700"/>
+      <path id="t5" d="M560 400 V352 L596 316 V250"/>
+      <path id="t6" d="M1140 130 V232 L1108 264 V400"/>
+    </g>
+    <g fill="#22D3EE" opacity="0.55">
+      <circle r="2.6"><animateMotion dur="7s"  repeatCount="indefinite"><mpath href="#t1"/></animateMotion></circle>
+      <circle r="2.2"><animateMotion dur="6s"  begin="1.4s" repeatCount="indefinite"><mpath href="#t2"/></animateMotion></circle>
+      <circle r="2.4"><animateMotion dur="8s"  begin="2.6s" repeatCount="indefinite"><mpath href="#t3"/></animateMotion></circle>
+      <circle r="2.2"><animateMotion dur="6.8s" begin="0.8s" repeatCount="indefinite"><mpath href="#t4"/></animateMotion></circle>
+      <circle r="2"  ><animateMotion dur="5.6s" begin="3.2s" repeatCount="indefinite"><mpath href="#t6"/></animateMotion></circle>
+    </g>
+    <g fill="#1E40AF" opacity="0.75">
+      <circle cx="150" cy="46" r="3"/><circle cx="392" cy="78" r="3"/>
+      <circle cx="1010" cy="74" r="3"/><circle cx="210" cy="354" r="3"/>
+      <circle cx="980" cy="340" r="3"/><circle cx="1140" cy="130" r="3"/>
+    </g>
+
+    <rect width="1200" height="400" fill="url(#glowL)"/>
+    <rect width="1200" height="400" fill="url(#glowV)"/>
+
+    <!-- ── HUD rings ──────────────────────────────────── -->
+    <g transform="translate(170,207)" fill="none">
+      <circle r="168" stroke="#1D4ED8" stroke-opacity="0.34" stroke-width="1.4"
+              stroke-dasharray="64 26 8 26">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360"
+                          dur="46s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="150" stroke="#22D3EE" stroke-opacity="0.26" stroke-width="1"
+              stroke-dasharray="3 12">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0"
+                          dur="30s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="188" stroke="#8B5CF6" stroke-opacity="0.16" stroke-width="1"
+              stroke-dasharray="112 320">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360"
+                          dur="22s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- ── base plate ─────────────────────────────────── -->
+    <ellipse cx="170" cy="344" rx="126" ry="20" fill="none"
+             stroke="#1D4ED8" stroke-opacity="0.42" stroke-width="1.2"/>
+    <ellipse cx="170" cy="344" rx="86" ry="13" fill="none"
+             stroke="#22D3EE" stroke-opacity="0.26" stroke-width="1"/>
+    <ellipse cx="170" cy="344" rx="58" ry="22" fill="#22D3EE" opacity="0.20" filter="url(#blur18)">
+      <animate attributeName="opacity" values="0.12;0.28;0.12" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- ── shield ─────────────────────────────────────── -->
+    <use href="#shieldPath" fill="#1D4ED8" opacity="0.35" filter="url(#blur18)"/>
+
+    <g clip-path="url(#shieldClip)">
+      <use href="#shieldPath" fill="url(#shieldFace)"/>
+      <rect x="87" y="80" width="166" height="250" fill="url(#hex)" opacity="0.55"/>
+      <!-- lit right half -->
+      <rect x="170" y="80" width="90" height="250" fill="url(#shieldLit)"/>
+      <!-- inner outline -->
+      <use href="#shieldPath" fill="none" stroke="#38BDF8" stroke-opacity="0.45"
+           stroke-width="2" transform="translate(170,207) scale(0.86) translate(-170,-207)"/>
+    </g>
+    <use href="#shieldPath" fill="none" stroke="url(#rim)" stroke-width="3.4"/>
+
+    <!-- padlock -->
+    <g>
+      <g filter="url(#blur7)" opacity="0.75">
+        <rect x="139" y="203" width="62" height="56" rx="9" fill="#22D3EE"/>
+        <path d="M151 203 v-19 a19 19 0 0 1 38 0 v19" fill="none" stroke="#22D3EE" stroke-width="9"/>
+      </g>
+      <path d="M151 203 v-19 a19 19 0 0 1 38 0 v19" fill="none"
+            stroke="#5EEAD4" stroke-width="8" stroke-linecap="round"/>
+      <rect x="139" y="203" width="62" height="56" rx="9"
+            fill="#0B1B44" stroke="#5EEAD4" stroke-width="2.6"/>
+      <circle cx="170" cy="224" r="7" fill="none" stroke="#5EEAD4" stroke-width="2.6"/>
+      <path d="M170 231 v13" stroke="#5EEAD4" stroke-width="2.6" stroke-linecap="round"/>
+      <animate attributeName="opacity" values="0.86;1;0.86" dur="3.4s" repeatCount="indefinite"/>
+    </g>
+
+    <!-- ── divider ────────────────────────────────────── -->
+    <line x1="352" y1="112" x2="352" y2="300" stroke="#8B5CF6" stroke-opacity="0.7" stroke-width="2.5"/>
+
+    <!-- ── name block ─────────────────────────────────── -->
+    <g transform="translate(392,0)">
+      <text y="196" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+            font-size="66" font-weight="800" letter-spacing="5"
+            fill="url(#silver)" transform="scale(1.06,1)">SIDDHANT</text>
+
+      <text y="272" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+            font-size="66" font-weight="800" letter-spacing="5"
+            fill="url(#cyan)" transform="scale(1.06,1)">BHATTARAI</text>
+
+      <text y="316" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+            font-size="17.5" fill="#D3E1F2" opacity="0">
+        Securing Systems &#160;|&#160; Automating DevSecOps Pipelines
+        <animate attributeName="opacity" from="0" to="0.95" dur="0.9s" begin="0.9s" fill="freeze"/>
+      </text>
+      <text y="342" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
+            font-size="17.5" fill="#D3E1F2" opacity="0">
+        Empowering AI-Driven Threat Detection
+        <animate attributeName="opacity" from="0" to="0.95" dur="0.9s" begin="1.15s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- ── right divider ──────────────────────────────── -->
+    <g stroke="#38BDF8" stroke-opacity="0.75">
+      <line x1="912" y1="86" x2="912" y2="330" stroke-width="1.6"/>
+    </g>
+    <circle cx="912" cy="86"  r="4" fill="#38BDF8"/>
+    <circle cx="912" cy="330" r="4" fill="#38BDF8"/>
+
+    <!-- ── four pillars ───────────────────────────────── -->
+    <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="18" fill="#E4EEF9">
+
+      <!-- 1 · Cyber Security -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.3s" fill="freeze"/>
+        <g transform="translate(950,92)" fill="none" stroke="#A78BFA" stroke-width="2.2">
+          <path d="M20 2 L38 10 V26 C38 38 30 45 20 49 C10 45 2 38 2 26 V10 Z"/>
+          <rect x="12" y="21" width="16" height="14" rx="2.5"/>
+          <path d="M15 21 v-4 a5 5 0 0 1 10 0 v4"/>
+        </g>
+        <text x="1002" y="127">Cyber Security</text>
+      </g>
+
+      <!-- 2 · DevSecOps -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.5s" fill="freeze"/>
+        <g transform="translate(950,164)" fill="none" stroke="#38BDF8" stroke-width="2.2">
+          <path d="M20 3 l5 4 h6 l1 6 5 4 -2 6 3 6 -4 5 -1 6 -6 2 -4 5 -6 -1 -6 3 -5 -4 -6 -1 -2 -6 -5 -4 2 -6 -3 -6 4 -5 1 -6 6 -2 z"
+                stroke-opacity="0.85"/>
+          <circle cx="15" cy="26" r="6"/>
+          <circle cx="27" cy="26" r="6"/>
+        </g>
+        <text x="1002" y="199">DevSecOps</text>
+      </g>
+
+      <!-- 3 · AI & ML in Security -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.7s" fill="freeze"/>
+        <g transform="translate(950,236)" fill="none" stroke="#38BDF8" stroke-width="2.2">
+          <path d="M20 8 a9 9 0 0 0 -14 6 a8 8 0 0 0 -1 13 a9 9 0 0 0 15 11 V8"/>
+          <path d="M20 8 a9 9 0 0 1 14 6 a8 8 0 0 1 1 13 a9 9 0 0 1 -15 11"/>
+          <circle cx="12" cy="19" r="2.4" fill="#38BDF8"/>
+          <circle cx="28" cy="17" r="2.4" fill="#38BDF8"/>
+          <circle cx="26" cy="31" r="2.4" fill="#38BDF8"/>
+          <path d="M12 19 L20 22 L28 17 M20 22 L26 31"/>
+        </g>
+        <text x="1002" y="271">AI &amp; ML in Security</text>
+      </g>
+
+      <!-- 4 · Offensive Security -->
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.9s" fill="freeze"/>
+        <g transform="translate(950,300)" fill="none" stroke="#A78BFA" stroke-width="2.2" stroke-linecap="round">
+          <path d="M4 4 L30 36"/><path d="M36 4 L10 36"/>
+          <path d="M4 4 L4 11 L11 11"/><path d="M36 4 L36 11 L29 11"/>
+          <path d="M26 39 L34 31"/><path d="M14 39 L6 31"/>
+        </g>
+        <text x="1002" y="329">Offensive Security</text>
+        <text x="1002" y="353" font-size="18">&amp; Pen Testing</text>
+      </g>
+    </g>
+
+    <!-- ── sweep + frame ──────────────────────────────── -->
+    <rect x="-460" y="0" width="460" height="400" fill="url(#sweep)" opacity="0.4">
+      <animate attributeName="x" from="-460" to="1200" dur="8.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <rect x="0.5" y="0.5" width="1199" height="399" rx="16" fill="none"
+          stroke="#38BDF8" stroke-opacity="0.22" stroke-width="1"/>
+  </g>
+</svg>
