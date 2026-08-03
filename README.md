@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
-  <img width="100%" src="./assets/banner.svg" alt="Siddhant Bhattarai — DevSecOps Engineer & Cloud Security Architect" />
+  <img width="100%" src="banner.svg" alt="Siddhant Bhattarai — DevSecOps Engineer & Cloud Security Architect" />
 </div>
 
 
