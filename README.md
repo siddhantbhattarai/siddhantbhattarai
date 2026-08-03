@@ -7,6 +7,13 @@
 
 <div align="center">
 
+**DevSecOps Engineer & Cloud Security Architect** — I secure cloud infrastructure,
+automate delivery pipelines, and build offensive security tooling.
+
+</div>
+
+<div align="center">
+
 <img src="https://img.shields.io/github/followers/siddhantbhattarai?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
 <img src="https://img.shields.io/badge/Experience-5%2B_Years-3B82F6?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Kathmandu-Nepal-3B82F6?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
@@ -19,9 +26,9 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## About
 
-I'm a **DevSecOps Engineer and Cloud Security Architect** with experience designing secure
-cloud infrastructure, automating software delivery pipelines, and developing offensive
-security tooling.
+I work across the whole lifecycle — architecting secure AWS and Azure environments, embedding
+security controls into the delivery pipeline, and writing the tooling that proves a system is
+actually secure rather than assumed to be.
 
 I help organizations build scalable, resilient, and security-first environments across
 **AWS, Azure, Kubernetes, Linux, and Windows Server** infrastructures — and I teach the same
@@ -84,6 +91,19 @@ agents can call it as a native tool.
 
 **[Py4DS & ML Bootcamp](https://github.com/siddhantbhattarai/Py4DS-ML-Bootcamp)**
 &nbsp;—&nbsp; Python for data science and machine learning, taught through runnable notebooks.
+
+<details>
+<summary><b>More repositories</b></summary>
+
+<br>
+
+- **[Azure Function Demo](https://github.com/siddhantbhattarai/Azure-Function-Demo)** — serverless workloads on Azure Functions
+- **[Azure Load Balancer](https://github.com/siddhantbhattarai/azure-load-balancer)** — traffic distribution and high-availability setup
+- **[React Docker Container](https://github.com/siddhantbhattarai/React-Docker-Container)** — containerized React build and deployment
+- **[DSA with Python](https://github.com/siddhantbhattarai/DSA-with-Python)** — data structures and algorithms with complexity analysis
+- **[Artificial Intelligence 2024](https://github.com/siddhantbhattarai/Artificial-Intelligence-2024)** — AI coursework and notebooks
+
+</details>
 
 ---
 

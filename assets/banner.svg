@@ -201,53 +201,40 @@
       <!-- 1 · Cyber Security -->
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.684;1" dur="1.9s" begin="0s" fill="freeze"/>
-        <g transform="translate(934,92)" fill="none" stroke="#A78BFA" stroke-width="2.2">
-          <path d="M20 2 L38 10 V26 C38 38 30 45 20 49 C10 45 2 38 2 26 V10 Z"/>
-          <rect x="12" y="21" width="16" height="14" rx="2.5"/>
-          <path d="M15 21 v-4 a5 5 0 0 1 10 0 v4"/>
+        <g transform="translate(934,96)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20 3 L36 9 V21 C36 30 29 36 20 38 C11 36 4 30 4 21 V9 Z"/><rect x="14" y="19" width="12" height="10" rx="2"/><path d="M17 19 v-3 a3 3 0 0 1 6 0 v3"/>
         </g>
-        <text x="986" y="127">Cyber Security</text>
+        <text x="986" y="122">Cyber Security</text>
       </g>
 
       <!-- 2 · DevSecOps -->
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.714;1" dur="2.1s" begin="0s" fill="freeze"/>
-        <g transform="translate(934,164)" fill="none" stroke="#38BDF8" stroke-width="2.2">
-          <path d="M20 3 l5 4 h6 l1 6 5 4 -2 6 3 6 -4 5 -1 6 -6 2 -4 5 -6 -1 -6 3 -5 -4 -6 -1 -2 -6 -5 -4 2 -6 -3 -6 4 -5 1 -6 6 -2 z"
-                stroke-opacity="0.85"/>
-          <circle cx="15" cy="26" r="6"/>
-          <circle cx="27" cy="26" r="6"/>
+        <g transform="translate(934,157)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M26.3 13.3 c8.5 0 8.5 13.4 0 13.4 c-8.5 0 -11.9 -13.4 -21.2 -13.4 c-7.6 0 -7.6 13.4 0 13.4 c9.3 0 12.7 -13.4 21.2 -13.4 z"/>
         </g>
-        <text x="986" y="199">DevSecOps</text>
+        <text x="986" y="183">DevSecOps</text>
       </g>
 
-      <!-- 3 · AI & ML in Security -->
+      <!-- 3 · AI &amp; ML Security -->
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.739;1" dur="2.3s" begin="0s" fill="freeze"/>
-        <g transform="translate(934,236)" fill="none" stroke="#38BDF8" stroke-width="2.2">
-          <path d="M20 8 a9 9 0 0 0 -14 6 a8 8 0 0 0 -1 13 a9 9 0 0 0 15 11 V8"/>
-          <path d="M20 8 a9 9 0 0 1 14 6 a8 8 0 0 1 1 13 a9 9 0 0 1 -15 11"/>
-          <circle cx="12" cy="19" r="2.4" fill="#38BDF8"/>
-          <circle cx="28" cy="17" r="2.4" fill="#38BDF8"/>
-          <circle cx="26" cy="31" r="2.4" fill="#38BDF8"/>
-          <path d="M12 19 L20 22 L28 17 M20 22 L26 31"/>
+        <g transform="translate(934,218)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20 20 L9 11 M20 20 L9 29 M20 20 L33 11 M20 20 L33 29"/><circle cx="9" cy="11" r="3" fill="#081231"/><circle cx="9" cy="29" r="3" fill="#081231"/><circle cx="33" cy="11" r="3" fill="#081231"/><circle cx="33" cy="29" r="3" fill="#081231"/><circle cx="20" cy="20" r="3.6" fill="#081231"/>
         </g>
-        <text x="986" y="271">AI &amp; ML in Security</text>
+        <text x="986" y="244">AI &amp; ML Security</text>
       </g>
 
       <!-- 4 · Offensive Security -->
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.76;1" dur="2.5s" begin="0s" fill="freeze"/>
-        <g transform="translate(934,300)" fill="none" stroke="#A78BFA" stroke-width="2.2" stroke-linecap="round">
-          <path d="M4 4 L30 36"/><path d="M36 4 L10 36"/>
-          <path d="M4 4 L4 11 L11 11"/><path d="M36 4 L36 11 L29 11"/>
-          <path d="M26 39 L34 31"/><path d="M14 39 L6 31"/>
+        <g transform="translate(934,279)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M5 5 L27 31"/><path d="M35 5 L13 31"/><path d="M5 5 V12 H12"/><path d="M35 5 V12 H28"/><path d="M24 35 L31 28"/><path d="M16 35 L9 28"/>
         </g>
-        <text x="986" y="329">Offensive Security</text>
-        <text x="986" y="353" font-size="18">&amp; Pen Testing</text>
+        <text x="986" y="305">Offensive Security</text>
       </g>
-    </g>
 
+    </g>
     <!-- ── sweep + frame ──────────────────────────────── -->
     <rect x="-460" y="0" width="460" height="400" fill="url(#sweep)" opacity="0.4">
       <animate attributeName="x" from="-460" to="1200" dur="8.5s" repeatCount="indefinite"/>
