@@ -1,115 +1,169 @@
 [![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=onedark&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-### About Me:    
-Hi! I'm Siddhant Bhattarai, a passionate DevSecOps Specialist, AWS Cloud Architect, Educator, Machine Learning Practitioner and Cybersecurity Enthusiast. With a strong foundation in Cloud Computing, DevOps, Networking, and Cybersecurity, I specialize in designing secure, scalable cloud solutions and automating SDLC and CI/CD processes to enhance operational efficiency and reliability. Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
-       
-   
-### Social media: 📡    
-Join me on Instagram, where I share my knowledge, courses, roadmaps, and job opportunities. 
+<!-- ═══════════════════════ ANIMATED HEADER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Siddhant%20Bhattarai&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=DevSecOps%20Engineer%20%C2%B7%20Cloud%20Security%20Architect&descAlignY=54&descSize=18&animation=fadeIn" />
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddhantacademy101)
+<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Breaking+things+before+attackers+do.;Building+security+tooling+in+Rust.;Architecting+secure+cloud+at+scale.;Teaching+engineers+to+do+the+same.)](https://github.com/siddhantbhattarai)
 
-## Languages and Tools 
-<div>
+<!-- ═══════════════════════ LIVE BADGES ═══════════════════════ -->
 
-### Languages:
-| Python | C | C++ | R |
-|--------|---|-----|---|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |
+<img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/siddhantbhattarai?style=for-the-badge&color=00D9FF&labelColor=0F2027&logo=github" />
+<img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9FF?style=for-the-badge&labelColor=0F2027" />
+<img src="https://img.shields.io/badge/Kathmandu-Nepal-00D9FF?style=for-the-badge&labelColor=0F2027&logo=googlemaps&logoColor=white" />
 
-
-### Best Frameworks & Libraries:
-
-| Pytorch | NLTK | Numpy | Pandas | Sklearn | OpenCV |TensorFlow |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/nltk.png?raw=true" title="NLTK" alt="NLTK" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="OpenCv" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="55" height="55"/> |
-
-
-
-### Data Manipulation, Storage & Visualisation:
-
-| Pandas | NumPy | Spark | MySQL | Postgres | SQLite | Plotly | Matpltlib | Seaborn | 
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/seaborn.png?raw=true" title="Seaborn" alt="Seaborn" width="55" height="55"/> |
-
-### Model Deployment:
-
-| Flask | Django | FastAPI |
-|-------|--------|---------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="55" height="55"/> | <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/django.png?raw=true" title="Django" alt="Django" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> |
-
-### Cloud Computing:
-
-| AWS | Azure | GCP |
-|-----|-------|-----|
-| <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/aws.png?raw=true" title="AWS" alt="AWS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="55" height="55"/> |
-
-### Scripting & Infrastructure as Code:
-| Bash | Ansible | Terraform | Python | 
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> |
-
-### Operating Systems:
-
-| Linux | Ubuntu | Kali | Windows | Mac |
-|-------|--------|------|---------|-----|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali" alt="Kali" width="55" height="55"/> | <img src="https://github.com/siddhantbhattarai/siddhantbhattarai/blob/main/assets/windows.png?raw=true" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Mac" alt="Mac" width="55" height="55"/> |
-
-### Big Data Tools:
-
-| Apache Spark | Hadoop |
-|--------------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache Spark" alt="Apache Spark" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="55" height="55"/> |
-
-### CI/CD & Version Control Tools:
-
-| Jenkins | GitHub Actions | GitLab CI | Git | GitHub | GitLab |
-|---------|----------------|-----------|-----|--------|--------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab CI" alt="GitLab CI" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> |
-
-### Other Tools:
-
-| Jupyter Notebook | Google Colab | Docker | Kubernetes |
-|------------------|--------------|--------|------------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google Colab" alt="Google Colab" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
-  
-<table style="margin: auto;">
-    <tr>
-        <td align="center">
-            <img width="800" height="220" src="https://streak-stats.demolab.com?user=siddhantbhattarai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-        </td>
-    </tr>
-</table>
-
-<div style="text-align: center;">
-    <table style="margin: auto;">
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&count_private=true&show_icons=true&theme=tokyonight"/>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-            </td>
-        </tr>
-    </table>
 </div>
 
-<div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-bottom: 20px;">    
-    <!-- Contribution Graph -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&theme=xcode&hide_border=true" alt="Siddhant Bhattarai's Activity Graph" />
-  </div>
-</div>
 <br>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=orange" alt=""/>
+
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+<img align="right" width="380" src="https://raw.githubusercontent.com/siddhantbhattarai/siddhantbhattarai/main/assets/github-snake.svg" />
+
+### `~/whoami`
+
+```yaml
+name:      Siddhant Bhattarai
+role:      DevSecOps Engineer & Cloud Security Architect
+focus:     Offensive security tooling · Secure cloud architecture
+building:  ANVIL — a Rust web-app scanner (8 of OWASP Top 10)
+teaching:  Siddhant Academy — cloud, DevOps & security curriculum
+writing:   72 posts on DevSecOps, AWS & CI/CD
+open_to:   Consulting · Security architecture · Collaboration
+```
+
+I build tooling that **proves** vulnerabilities instead of guessing at them, and design AWS
+infrastructure where security lives inside the pipeline rather than bolted on afterward.
+
+<br clear="right">
+
+---
+
+<!-- ═══════════════════════ FEATURED WORK ═══════════════════════ -->
+<h2 align="center">🔨 Featured Work</h2>
+
+<div align="center">
+
+<a href="https://github.com/siddhantbhattarai/anvil">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhattarai&repo=anvil&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/siddhantbhattarai/Fullstack-PHP-Application-Docker">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhattarai&repo=Fullstack-PHP-Application-Docker&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/siddhantbhattarai/AWS-Cloud-Foundational-Lab">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhattarai&repo=AWS-Cloud-Foundational-Lab&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+<a href="https://github.com/siddhantbhattarai/Azure-Function-Demo">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantbhattarai&repo=Azure-Function-Demo&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF" />
+</a>
+
 </div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<br>
 
+<div align="center">
+
+### ⚡ ANVIL — Adversarial Security Testing Framework
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-8%2F10_Covered-critical?style=flat-square" />
+<img src="https://img.shields.io/badge/Detection_Classes-11_Active_%2B_5_Passive-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP_Server-Built--in-purple?style=flat-square" />
+
+</div>
+
+An evidence-driven scanner that **safely proves** findings rather than flagging them speculatively —
+SQLi across seven techniques (UNION, boolean-blind, time-blind, error-based, DNS out-of-band,
+second-order, stacked), XSS, SSRF, command injection, SSTI, XXE, path traversal, CORS and CRLF.
+Ships deterministic `--fail-on` exit codes for CI gating, a stable JSON schema, and a native
+**Model Context Protocol server** so AI agents can call it as a first-class tool.
+
+---
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<h2 align="center">🧰 Arsenal</h2>
+
+<div align="center">
+
+**Security & Offensive Tooling**
+
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,rust&theme=dark" />
+
+**Cloud & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker,kubernetes&theme=dark" />
+
+**CI/CD & Version Control**
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git,github&theme=dark" />
+
+**Languages & Data**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,r,mysql,postgres,sqlite&theme=dark" />
+
+**ML & Backend**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,django&theme=dark" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ANIMATED STATS ═══════════════════════ -->
+<h2 align="center">📊 The Numbers</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0F2027&title_color=00D9FF&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby" />
+
+<img width="91%" src="https://streak-stats.demolab.com?user=siddhantbhattarai&theme=tokyonight&hide_border=true&background=0F2027&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img width="91%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantbhattarai&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=00D9FF&line=00D9FF&point=ffffff&area=true" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════ WRITING ═══════════════════════ -->
+<h2 align="center">✍️ Writing & Teaching</h2>
+
+<div align="center">
+
+I publish long-form breakdowns of DevSecOps pipelines, AWS architecture and CI/CD on Hashnode,
+and free curriculum through **Siddhant Academy**.
+
+<a href="https://siddhantbhattarai.hashnode.dev">
+  <img src="https://img.shields.io/badge/Read_the_blog-72_posts-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0F2027" />
+</a>
+<a href="https://www.youtube.com/@siddhantacademy101">
+  <img src="https://img.shields.io/badge/Siddhant_Academy-Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0F2027" />
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+<h2 align="center">🤝 Let's Build Something Secure</h2>
+
+<div align="center">
+
+<a href="ADD_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://siddhantbhattarai.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://www.youtube.com/@siddhantacademy101"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.instagram.com/siddhantacademy101"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:ADD_YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+
+*Open to DevSecOps consulting, cloud security architecture, and security tooling collaboration.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 
