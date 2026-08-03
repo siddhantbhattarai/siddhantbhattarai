@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/siddhantbhattarai?style=flat-square&color=3B82F6&labelColor=0D1117&logo=github&label=Followers" />
-<img src="https://img.shields.io/badge/Experience-5%2B_Years-3B82F6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Kathmandu-Nepal-3B82F6?style=flat-square&labelColor=0D1117&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=flat-square&color=3B82F6&label=Profile+views" />
+<img src="https://img.shields.io/github/followers/siddhantbhattarai?style=for-the-badge&color=3B82F6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Experience-5%2B_Years-3B82F6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Kathmandu-Nepal-3B82F6?style=for-the-badge&labelColor=0D1117&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=siddhantbhattarai&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -51,10 +51,10 @@ Container Security &nbsp;·&nbsp; Active Directory Security &nbsp;·&nbsp; Offen
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/OWASP_Top_10-8_of_10_covered-DC2626?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Detections-11_active_·_5_passive-3B82F6?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MCP_Server-native-9333EA?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/OWASP_Top_10-8_of_10_covered-DC2626?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Detections-11_active_·_5_passive-3B82F6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MCP_Server-native-9333EA?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -86,40 +86,26 @@ stable JSON schema make it straightforward to gate a pipeline on.
 
 ---
 
-<!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## Tech Stack
 
 <div align="center">
 
-`SECURITY & OFFENSIVE`
-
-<img src="https://skillicons.dev/icons?i=rust,kali,linux,bash&theme=dark" height="44" />
-
-`CLOUD`
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" height="44" />
-
-`INFRASTRUCTURE AS CODE`
-
-<img src="https://skillicons.dev/icons?i=terraform,ansible,docker,kubernetes&theme=dark" height="44" />
-
-`CI / CD`
-
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,git&theme=dark" height="44" />
-
-`LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,r&theme=dark" height="44" />
-
-`DATA & MACHINE LEARNING`
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,pytorch,tensorflow,sklearn&theme=dark" height="44" />
-
-`BACKEND`
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" height="44" />
+<img width="100%" src="https://skillicons.dev/icons?i=rust,kali,linux,bash,aws,azure,gcp,terraform,ansible,docker,kubernetes,githubactions,jenkins,gitlab,git,python,c,cpp,r,fastapi,flask,django,postgres,mysql,pytorch,tensorflow,sklearn&perline=9&theme=dark" alt="Rust, Kali Linux, Linux, Bash, AWS, Azure, Google Cloud, Terraform, Ansible, Docker, Kubernetes, GitHub Actions, Jenkins, GitLab CI, Git, Python, C, C++, R, FastAPI, Flask, Django, PostgreSQL, MySQL, PyTorch, TensorFlow, scikit-learn" />
 
 </div>
+
+<br>
+
+**Security & Offensive** &nbsp;·&nbsp; Rust &nbsp;·&nbsp; Kali Linux &nbsp;·&nbsp; Linux &nbsp;·&nbsp; Bash
+
+**Cloud** &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Google Cloud
+
+**Infrastructure & CI/CD** &nbsp;·&nbsp; Terraform &nbsp;·&nbsp; Ansible &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; GitHub Actions &nbsp;·&nbsp; Jenkins &nbsp;·&nbsp; GitLab CI &nbsp;·&nbsp; Git
+
+**Languages & Backend** &nbsp;·&nbsp; Python &nbsp;·&nbsp; C &nbsp;·&nbsp; C++ &nbsp;·&nbsp; R &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Flask &nbsp;·&nbsp; Django
+
+**Data & Machine Learning** &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; TensorFlow &nbsp;·&nbsp; scikit-learn
 
 ---
 
@@ -137,10 +123,10 @@ stable JSON schema make it straightforward to gate a pipeline on.
 
 `CERTIFICATIONS`
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Architecting-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-Cloud_Developing-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AWS-Data_Engineering-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Fortinet-Network_Security-EE3124?style=flat-square&logo=fortinet&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AWS-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AWS-Cloud_Developing-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AWS-Data_Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Fortinet-Network_Security-EE3124?style=for-the-badge&logo=fortinet&logoColor=white&labelColor=0D1117" />
 
 </div>
 
@@ -161,14 +147,6 @@ for engineers moving into cloud and security roles.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-<!-- ═══════════════════════ CURRENTLY ═══════════════════════ -->
-## Currently
-
-Extending ANVIL's detection coverage &nbsp;·&nbsp; deepening agent / MCP integration
-&nbsp;·&nbsp; publishing cloud security curriculum
 
 ---
 
