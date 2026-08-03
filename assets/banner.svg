@@ -202,7 +202,7 @@
       <g opacity="1">
         <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.684;1" dur="1.9s" begin="0s" fill="freeze"/>
         <g transform="translate(934,96)" fill="none" stroke="#38BDF8" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M20 2.5 L36 8.5 V20.5 C36 29.5 29 35.5 20 37.5 C11 35.5 4 29.5 4 20.5 V8.5 Z"/><rect x="14" y="18.5" width="12" height="10" rx="2"/><path d="M17 18.5 v-3 a3 3 0 0 1 6 0 v3"/>
+          <path d="M20 2.375 L33.5 8.375 V20.375 C33.5 29.375 27.5 34.625 20 37.625 C12.5 34.625 6.5 29.375 6.5 20.375 V8.375 Z"/><rect x="14" y="16.625" width="12" height="10.5" rx="1.875"/><path d="M16.25 16.625 v-3 a3.75 3.75 0 0 1 7.5 0 v3"/>
         </g>
         <text x="986" y="122">Cyber Security</text>
       </g>
