@@ -45,7 +45,7 @@ Container Security &nbsp;·&nbsp; Active Directory Security &nbsp;·&nbsp; Offen
 
 <div align="center">
 
-![test](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=light)
+[![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=light&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img width="95%" src="./assets/github-snake.svg" alt="My GitHub contribution graph, rendered as a snake game" />
 
