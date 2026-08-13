@@ -173,6 +173,11 @@ for engineers moving into cloud and security roles.
 [![YouTube](https://img.shields.io/badge/Siddhant_Academy-Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@siddhantacademy101)
 
 <!-- BLOG-POST-LIST:START -->
+- [Solving Client Challenges with Two-Tier Architecture on Azure](https://siddhantbhattarai.hashnode.dev/solving-client-challenges-with-two-tier-architecture-on-azure)
+- [Step-by-step guide to master GitHub Actions](https://siddhantbhattarai.hashnode.dev/step-by-step-guide-to-master-github-actions)
+- [A Comprehensive Guide to Building a DevSecOps Pipeline with SonarQube, Trivy, and GitHub Actions on Azure](https://siddhantbhattarai.hashnode.dev/a-comprehensive-guide-to-building-a-devsecops-pipeline-with-sonarqube-trivy-and-github-actions-on-azure)
+- [Cryptography Lab Sheet: Hash Functions using Kali Linux](https://siddhantbhattarai.hashnode.dev/cryptography-lab-sheet-hash-functions-using-kali-linux)
+- [Comprehensive Guide to Deep Learning &lpar;DL&rpar;](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-deep-learning-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
