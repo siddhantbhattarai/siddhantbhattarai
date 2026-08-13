@@ -1,0 +1,24 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts from Hashnode into the README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://siddhantbhattarai.hashnode.dev/rss.xml"
+          max_post_count: 5
+          commit_message: "chore: update latest blog posts"
