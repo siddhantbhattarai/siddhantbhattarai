@@ -66,7 +66,8 @@ policy checks and gating run on every commit instead of in a review meeting.
 reproducible, reviewable, and recoverable.
 
 **Security tooling** — building scanners and offensive tooling, and taking findings from
-detection through to evidence.
+detection through to evidence — like [ANVIL](https://github.com/siddhantbhattarai/anvil), my
+evidence-driven web application security scanner.
 
 **Teaching** — cloud and security curriculum for engineers moving into the field.
 
@@ -75,35 +76,31 @@ detection through to evidence.
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 ## Featured Projects
 
+**[traceosint](https://github.com/siddhantbhattarai/traceosint)** &nbsp;—&nbsp; multi-vector
+identity reconnaissance in Rust, for investigators. Correlates an email across mail
+infrastructure, account-existence oracles (Meta/GitHub/Bitbucket), 700+ sites, phone and geo
+intelligence — each result with an explicit confidence. Installs via apt.
+
 **[ANVIL](https://github.com/siddhantbhattarai/anvil)** &nbsp;—&nbsp; evidence-driven web
 application security scanner in Rust. Covers 8 of the OWASP Top 10 across 11 active detections
 and 5 passive audits, proves findings rather than flagging them, and ships an MCP server so AI
-agents can call it as a native tool.
+agents can call it as a native tool. Installs via apt.
 
-**[AWS Cloud Foundational Lab](https://github.com/siddhantbhattarai/AWS-Cloud-Foundational-Lab)**
-&nbsp;—&nbsp; hands-on labs covering core AWS architecture: VPC design, IAM, compute and storage.
+**[GitExScan](https://github.com/siddhantbhattarai/gitexscan)** &nbsp;—&nbsp; security auditor
+that detects exposed `.git` directories and 70+ sensitive files (env, configs, keys, dumps),
+flags leaked API secrets, and can reconstruct a leaked repository from a web target.
 
-**[Fullstack PHP on Docker](https://github.com/siddhantbhattarai/Fullstack-PHP-Application-Docker)**
-&nbsp;—&nbsp; containerized multi-service deployment with a reproducible local-to-production path.
+**[sparsemoe-rs](https://github.com/siddhantbhattarai/sparsemoe-rs)** &nbsp;—&nbsp; a
+mixture-of-experts transformer inference engine built from scratch in Rust — every kernel
+hand-written and verified byte-for-byte against a Python/transformers reference at each stage.
 
-**[Kubernetes Deployment](https://github.com/siddhantbhattarai/kubernetes-Deployment)**
-&nbsp;—&nbsp; manifests and patterns for running and scaling workloads on Kubernetes.
+**[DevSecOps Roadmap 2026](https://github.com/siddhantbhattarai/DevSecOps-Roadmap)**
+&nbsp;—&nbsp; a 22-step guide to becoming a DevSecOps engineer: curated resources, hands-on
+labs, portfolio projects, checklists, and working pipeline examples.
 
-**[Py4DS & ML Bootcamp](https://github.com/siddhantbhattarai/Py4DS-ML-Bootcamp)**
-&nbsp;—&nbsp; Python for data science and machine learning, taught through runnable notebooks.
-
-<details>
-<summary><b>More repositories</b></summary>
-
-<br>
-
-- **[Azure Function Demo](https://github.com/siddhantbhattarai/Azure-Function-Demo)** — serverless workloads on Azure Functions
-- **[Azure Load Balancer](https://github.com/siddhantbhattarai/azure-load-balancer)** — traffic distribution and high-availability setup
-- **[React Docker Container](https://github.com/siddhantbhattarai/React-Docker-Container)** — containerized React build and deployment
-- **[DSA with Python](https://github.com/siddhantbhattarai/DSA-with-Python)** — data structures and algorithms with complexity analysis
-- **[Artificial Intelligence 2024](https://github.com/siddhantbhattarai/Artificial-Intelligence-2024)** — AI coursework and notebooks
-
-</details>
+**[RAG Model](https://github.com/siddhantbhattarai/rag-model)** &nbsp;—&nbsp; a multi-tenant
+document Q&A service — PDFs parsed once by PaddleOCR-VL, chunked and embedded into
+PostgreSQL + pgvector, with strict per-tenant isolation on every query.
 
 ---
 
