@@ -47,22 +47,6 @@ Container Security &nbsp;·&nbsp; Active Directory Security &nbsp;·&nbsp; Offen
 
 [![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=light&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&hide_title=false" alt="Siddhant Bhattarai's GitHub stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,roff&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9" alt="Most-used languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img width="95%" src="./assets/github-snake.svg" alt="My GitHub contribution graph, rendered as a snake game" />
 
 </div>
@@ -189,11 +173,6 @@ for engineers moving into cloud and security roles.
 [![YouTube](https://img.shields.io/badge/Siddhant_Academy-Courses-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117)](https://www.youtube.com/@siddhantacademy101)
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Client Challenges with Two-Tier Architecture on Azure](https://siddhantbhattarai.hashnode.dev/solving-client-challenges-with-two-tier-architecture-on-azure)
-- [Step-by-step guide to master GitHub Actions](https://siddhantbhattarai.hashnode.dev/step-by-step-guide-to-master-github-actions)
-- [A Comprehensive Guide to Building a DevSecOps Pipeline with SonarQube, Trivy, and GitHub Actions on Azure](https://siddhantbhattarai.hashnode.dev/a-comprehensive-guide-to-building-a-devsecops-pipeline-with-sonarqube-trivy-and-github-actions-on-azure)
-- [Cryptography Lab Sheet: Hash Functions using Kali Linux](https://siddhantbhattarai.hashnode.dev/cryptography-lab-sheet-hash-functions-using-kali-linux)
-- [Comprehensive Guide to Deep Learning &lpar;DL&rpar;](https://siddhantbhattarai.hashnode.dev/comprehensive-guide-to-deep-learning-dl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
