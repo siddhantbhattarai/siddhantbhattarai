@@ -47,6 +47,22 @@ Container Security &nbsp;·&nbsp; Active Directory Security &nbsp;·&nbsp; Offen
 
 [![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=siddhantbhattarai&theme=light&title=Stars,Followers,Commits,Repositories,PullRequest,MultipleLang,Experience)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siddhantbhattarai&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&hide_title=false" alt="Siddhant Bhattarai's GitHub stats" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantbhattarai&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,roff&bg_color=0D1117&title_color=3B82F6&text_color=c9d1d9" alt="Most-used languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 <img width="95%" src="./assets/github-snake.svg" alt="My GitHub contribution graph, rendered as a snake game" />
 
 </div>
